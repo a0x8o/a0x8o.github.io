@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/axbo
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://a0x8o.github.io
+  * I am axbo (https://keybase.io/axbo) on keybase.
+  * I have a public key ASBfKpWsGRLrHbh8go9k4izIo_V-yrTetSleqBSbGDx3pQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01014241ab9922876fa7d6b471ec4a6607e6bbd8ad7aae351b7ffc16b947323bbe2c0a",
+      "host": "keybase.io",
+      "kid": "01205f2a95ac1912eb1db87c828f64e22cc8a3f57ecab4deb5295ea8149b183c77a50a",
+      "uid": "45009325a2eed69d0185dec158388c19",
+      "username": "axbo"
+    },
+    "merkle_root": {
+      "ctime": 1613080008,
+      "hash": "daa5c1bf3d50bcbf7863a1cb0d5ec51f59eb3dc9b40e2f5cb6c399a42216546b03e2f7290e481d59eed26f7bd75d9274708f63e095c911e4eff4e32f6c686002",
+      "hash_meta": "3761669722d205ab3b47e5bb5425220cd8cb65dc8b24433d6afe93ad95527d68",
+      "seqno": 19085741
+    },
+    "service": {
+      "entropy": "thdNUBDJj4D+HtxyodGhC1Px",
+      "hostname": "a0x8o.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.6.2"
+  },
+  "ctime": 1613080027,
+  "expire_in": 504576000,
+  "prev": "27d53381599d543dbd649efb32e48991da3fce8c486563bf41732482f28d3cd7",
+  "seqno": 9,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgXyqVrBkS6x24fIKPZOIsyKP1fsq03rUpXqgUmxg8d6UKp3BheWxvYWTESpcCCcQgJ9UzgVmdVD29ZJ77MuSJkdo/zoxIZWO/QXMkgvKNPNfEIMehLW8yYbCV6lpcBJcDUyRd+0ILUTiaOknC+qOkM2pxAgHCo3NpZ8RA3McyO804Y637Jxyb4bZ6ocsLPZGVBsOYkV2Y/XQxjNrLocR2EOGkWjxls603biQXPD6692RzJFFhkPMybZYBDqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIDPkahqa+5rG7+Em8AkprndUflwRd639ZrSnP3EB4bxfo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/axbo
+
+==================================================================
