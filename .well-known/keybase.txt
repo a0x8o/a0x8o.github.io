@@ -1,32 +1,32 @@
 ==================================================================
-https://keybase.io/axbo
+https://keybase.io/a0x8o
 --------------------------------------------------------------------
 
 I hereby claim:
 
   * I am an admin of https://a0x8o.github.io
-  * I am axbo (https://keybase.io/axbo) on keybase.
-  * I have a public key ASBfKpWsGRLrHbh8go9k4izIo_V-yrTetSleqBSbGDx3pQo
+  * I am a0x8o (https://keybase.io/a0x8o) on keybase.
+  * I have a public key ASDY-Jjg-XYk82JR4q_AYgfKmjIOIvN9MqEKAzo3dUXWtgo
 
 To do so, I am signing this object:
 
 {
   "body": {
     "key": {
-      "eldest_kid": "01014241ab9922876fa7d6b471ec4a6607e6bbd8ad7aae351b7ffc16b947323bbe2c0a",
+      "eldest_kid": "0120bbaff63bdc53af43acbe80303d00d125e30f68cd8d39494d83dc2586a349d05c0a",
       "host": "keybase.io",
-      "kid": "01205f2a95ac1912eb1db87c828f64e22cc8a3f57ecab4deb5295ea8149b183c77a50a",
-      "uid": "45009325a2eed69d0185dec158388c19",
-      "username": "axbo"
+      "kid": "0120d8f898e0f97624f36251e2afc06207ca9a320e22f37d32a10a033a377545d6b60a",
+      "uid": "7c6ae7067808b3fbcf9fdc4416c80519",
+      "username": "a0x8o"
     },
     "merkle_root": {
-      "ctime": 1613080008,
-      "hash": "daa5c1bf3d50bcbf7863a1cb0d5ec51f59eb3dc9b40e2f5cb6c399a42216546b03e2f7290e481d59eed26f7bd75d9274708f63e095c911e4eff4e32f6c686002",
-      "hash_meta": "3761669722d205ab3b47e5bb5425220cd8cb65dc8b24433d6afe93ad95527d68",
-      "seqno": 19085741
+      "ctime": 1717082745,
+      "hash": "523313843db63c3bde6a0d9fa6b9156183733d7dce6ae96b183b6271f7f3f492dbb6bbdc16b13e05751e651a65267db1063c5cfe01451cec602beec813054d04",
+      "hash_meta": "00b66dbc2c413ca30f5b5fb9d2cdeea19ee5ef214d547b06eacaa2aab85ddd62",
+      "seqno": 25773522
     },
     "service": {
-      "entropy": "thdNUBDJj4D+HtxyodGhC1Px",
+      "entropy": "o/TcXseKgRemUqIJNUl8rZMR",
       "hostname": "a0x8o.github.io",
       "protocol": "https:"
     },
@@ -35,22 +35,22 @@ To do so, I am signing this object:
   },
   "client": {
     "name": "keybase.io go client",
-    "version": "5.6.2"
+    "version": "6.3.0"
   },
-  "ctime": 1613080027,
+  "ctime": 1717082805,
   "expire_in": 504576000,
-  "prev": "27d53381599d543dbd649efb32e48991da3fce8c486563bf41732482f28d3cd7",
-  "seqno": 9,
+  "prev": "3d23b435f3aaa35a9fc44eb009fab12ae5d863677d0de11309800b4f980c4aff",
+  "seqno": 16,
   "tag": "signature"
 }
 
 which yields the signature:
 
-hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgXyqVrBkS6x24fIKPZOIsyKP1fsq03rUpXqgUmxg8d6UKp3BheWxvYWTESpcCCcQgJ9UzgVmdVD29ZJ77MuSJkdo/zoxIZWO/QXMkgvKNPNfEIMehLW8yYbCV6lpcBJcDUyRd+0ILUTiaOknC+qOkM2pxAgHCo3NpZ8RA3McyO804Y637Jxyb4bZ6ocsLPZGVBsOYkV2Y/XQxjNrLocR2EOGkWjxls603biQXPD6692RzJFFhkPMybZYBDqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIDPkahqa+5rG7+Em8AkprndUflwRd639ZrSnP3EB4bxfo3RhZ80CAqd2ZXJzaW9uAQ==
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg2PiY4Pl2JPNiUeKvwGIHypoyDiLzfTKhCgM6N3VF1rYKp3BheWxvYWTESpcCEMQgPSO0NfOqo1qfxE6wCfqxKuXYY2d9DeETCYALT5gMSv/EIBm8tPF2PMnys7EacVOz/AfSO+ONCQQLt0BYYF9CE3zBAgHCo3NpZ8RAFFxw8Je2p2/7VygBZisp7lCDNvUArN3L5+YtyT+89RHPSYs+6m1VCQYmtBix6iRVl5+qlm/3ux3cHj7ugY56C6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIKkLJ7RaxaOPEMGrhMdJEya5L9k+KTJhc7tlQxcxjPgyo3RhZ80CAqd2ZXJzaW9uAQ==
 
 And finally, I am proving ownership of this host by posting or
 appending to this document.
 
-View my publicly-auditable identity here: https://keybase.io/axbo
+View my publicly-auditable identity here: https://keybase.io/a0x8o
 
 ==================================================================
